@@ -1,0 +1,88 @@
+
+/* Color Theme Swatches in RGBA 1 */
+.Grafischer-EQ-default-1-rgba { color: rgba(86, 166, 50, 1); }
+.Grafischer-EQ-default-2-rgba { color: rgba(242, 226, 5, 1); }
+.Grafischer-EQ-default-3-rgba { color: rgba(242, 203, 5, 1); }
+.Grafischer-EQ-default-4-rgba { color: rgba(242, 135, 5, 1); }
+.Grafischer-EQ-default-5-rgba { color: rgba(217, 4, 4, 1); }
+
+/* Color Theme Swatches in RGBA 2 */
+.Sarah-Meissner-3-1-rgba { color: rgba(0, 29, 41, 1); }
+.Sarah-Meissner-3-2-rgba { color: rgba(0, 53, 66, 1); }
+.Sarah-Meissner-3-3-rgba { color: rgba(1, 89, 86, 1); }
+.Sarah-Meissner-3-4-rgba { color: rgba(3, 116, 105, 1); }
+.Sarah-Meissner-3-5-rgba { color: rgba(121, 163, 146, 1); }
+
+/* Color Theme Swatches in RGBA 3*/
+.Sinus-1-rgba { color: rgba(167, 242, 228, 1); }
+.Sinus-2-rgba { color: rgba(2, 115, 74, 1); }
+.Sinus-3-rgba { color: rgba(1, 64, 41, 1); }
+.Sinus-4-rgba { color: rgba(1, 38, 25, 1); }
+.Sinus-5-rgba { color: rgba(59, 191, 143, 1); }
+
+/* Color Theme Swatches in RGBA 4*/
+.Mirror-lake-1-rgba { color: rgba(71, 64, 115, 1); }
+.Mirror-lake-2-rgba { color: rgba(79, 77, 140, 1); }
+.Mirror-lake-3-rgba { color: rgba(143, 142, 191, 1); }
+.Mirror-lake-4-rgba { color: rgba(46, 65, 89, 1); }
+.Mirror-lake-5-rgba { color: rgba(38, 38, 38, 1); }
+
+/* Color Theme Swatches in RGBA 5*/
+.Architektur-1-rgba { color: rgba(108, 115, 60, 1); }
+.Architektur-2-rgba { color: rgba(85, 89, 54, 1); }
+.Architektur-3-rgba { color: rgba(191, 182, 48, 1); }
+.Architektur-4-rgba { color: rgba(166, 159, 65, 1); }
+.Architektur-5-rgba { color: rgba(242, 242, 242, 1); }
+
+/* Color Theme Swatches in RGBA 6*/
+.underwater-scene-with-rays-of-light-1-rgba { color: rgba(1, 40, 64, 1); }
+.underwater-scene-with-rays-of-light-2-rgba { color: rgba(4, 138, 191, 1); }
+.underwater-scene-with-rays-of-light-3-rgba { color: rgba(75, 195, 242, 1); }
+.underwater-scene-with-rays-of-light-4-rgba { color: rgba(2, 94, 115, 1); }
+.underwater-scene-with-rays-of-light-5-rgba { color: rgba(75, 226, 242, 1); }
+
+
+/* Color Theme Swatches in RGBA 7*/
+.Mysterious-1-rgba { color: rgba(2, 64, 89, 1); }
+.Mysterious-2-rgba { color: rgba(1, 28, 38, 1); }
+.Mysterious-3-rgba { color: rgba(2, 73, 89, 1); }
+.Mysterious-4-rgba { color: rgba(83, 151, 166, 1); }
+.Mysterious-5-rgba { color: rgba(1, 38, 38, 1); }
+
+/* Color Theme Swatches in RGBA 8*/
+.For-all-the-pain-that-lies-ahead-1-rgba { color: rgba(39, 64, 1, 1); }
+.For-all-the-pain-that-lies-ahead-2-rgba { color: rgba(114, 166, 3, 1); }
+.For-all-the-pain-that-lies-ahead-3-rgba { color: rgba(79, 115, 2, 1); }
+.For-all-the-pain-that-lies-ahead-4-rgba { color: rgba(89, 85, 62, 1); }
+.For-all-the-pain-that-lies-ahead-5-rgba { color: rgba(242, 188, 27, 1); }
+
+/* Color Theme Swatches in RGBA 9*/
+.LSD-1-rgba { color: rgba(217, 102, 155, 1); }
+.LSD-2-rgba { color: rgba(217, 121, 201, 1); }
+.LSD-3-rgba { color: rgba(28, 56, 140, 1); }
+.LSD-4-rgba { color: rgba(48, 88, 140, 1); }
+.LSD-5-rgba { color: rgba(242, 162, 92, 1); }
+
+
+/* Color Theme Swatches in RGBA 10*/
+.LSD-klassik-1-rgba { color: rgba(67, 145, 204, 1); }
+.LSD-klassik-2-rgba { color: rgba(18, 88, 153, 1); }
+.LSD-klassik-3-rgba { color: rgba(91, 9, 255, 1); }
+.LSD-klassik-4-rgba { color: rgba(255, 146, 71, 1); }
+.LSD-klassik-5-rgba { color: rgba(209, 101, 1, 1); }
+
+/* Color Theme Swatches in RGBA 11*/
+.The-1-rgba { color: rgba(163, 18, 166, 1); }
+.The-2-rgba { color: rgba(98, 4, 191, 1); }
+.The-3-rgba { color: rgba(104, 5, 242, 1); }
+.The-4-rgba { color: rgba(242, 159, 5, 1); }
+.The-5-rgba { color: rgba(191, 75, 75, 1); }
+
+/* Color Theme Swatches in RGBA 12*/
+.TRACEWAVES-1-rgba { color: rgba(241, 194, 242, 1); }
+.TRACEWAVES-2-rgba { color: rgba(206, 153, 242, 1); }
+.TRACEWAVES-3-rgba { color: rgba(144, 46, 242, 1); }
+.TRACEWAVES-4-rgba { color: rgba(164, 128, 242, 1); }
+.TRACEWAVES-5-rgba { color: rgba(132, 102, 242, 1); }
+
+
